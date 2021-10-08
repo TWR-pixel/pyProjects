@@ -11,9 +11,6 @@ platform.system(),
 platform.version()
 ]
 
-#os.system("ipconfig")
-#pr = platform.processor()
-
 def printLis():
     print()
     print(">CPU stepping: " + lis[0])
